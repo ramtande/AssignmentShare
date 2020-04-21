@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppAssignment</string>
+    <string name="connection_availybility">Internet not available, Cross check your internet connectivity and try again</string>
+
+</resources>
